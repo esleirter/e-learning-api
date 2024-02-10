@@ -28,7 +28,7 @@ cd e-learning-api
 source .env
 ```
 
-4. Load the environment variables:
+4. Dowload dependencies:
 ```bash
 go mod tidy
 ```
